@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaraLaVoltaBuona", "SaraLaVoltaBuona.vcxproj", "{19F26782-AE26-46E1-A89D-6865A8E2FD50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Debug|x64.ActiveCfg = Debug|x64
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Debug|x64.Build.0 = Debug|x64
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Debug|x86.ActiveCfg = Debug|Win32
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Debug|x86.Build.0 = Debug|Win32
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Release|x64.ActiveCfg = Release|x64
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Release|x64.Build.0 = Release|x64
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Release|x86.ActiveCfg = Release|Win32
+		{19F26782-AE26-46E1-A89D-6865A8E2FD50}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDACA83F-341D-4E0A-AF79-0BD613754865}
+	EndGlobalSection
+EndGlobal
